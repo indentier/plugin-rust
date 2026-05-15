@@ -59,7 +59,7 @@
     "provenance": true
   },
   "peerDependencies": {
-    "indentier": ">=0.2.0"
+    "indentier": ">=0.1.0"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
